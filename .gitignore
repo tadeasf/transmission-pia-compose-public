@@ -1,0 +1,8 @@
+.env
+config/transmission-credentials.txt
+config/openvpn-credentials.txt
+config/transmission-home/bandwidth-groups.json
+config/transmission-home/settings.json
+config/transmission-home/transmission.log
+config/transmission-home
+.cache_ggshield
