@@ -13,8 +13,8 @@ This repository contains a Docker Compose configuration for running Transmission
 - Clone the repository:
 
 ```bash
-git clone https://github.com/tadeasf/transmission-pia-compose
-cd transmission-pia-compose
+git clone https://github.com/tadeasf/transmission-pia-compose-public
+cd transmission-pia-compose-public
 ```
 
 - Create necessary directories and files:
